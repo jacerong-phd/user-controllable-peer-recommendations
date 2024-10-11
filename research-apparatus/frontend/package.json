@@ -1,0 +1,51 @@
+{
+  "name": "so-strap",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/webpack-config": "^19.0.0",
+    "@react-navigation/bottom-tabs": "^6.5.9",
+    "@react-navigation/material-bottom-tabs": "^6.2.17",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/native-stack": "^6.9.14",
+    "@react-navigation/stack": "^6.3.18",
+    "axios": "^1.5.1",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "dayjs": "^1.11.10",
+    "eslint-import-resolver-babel-module": "^5.1.0",
+    "expo": "^49.0.13",
+    "expo-status-bar": "~1.6.0",
+    "fusioncharts": "^3.21.1",
+    "react": "18.2.0",
+    "react-art": "^18.2.0",
+    "react-dom": "18.2.0",
+    "react-fusioncharts": "^4.0.0",
+    "react-native": "0.72.10",
+    "react-native-dotenv": "^3.4.9",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-mmkv": "^2.10.2",
+    "react-native-pager-view": "6.2.0",
+    "react-native-paper": "^5.10.6",
+    "react-native-paper-tabs": "^0.10.1",
+    "react-native-popover-view": "^5.1.8",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-web": "~0.19.6",
+    "react-navigation": "^5.0.0",
+    "react-router-dom": "^6.23.0",
+    "rgb-hex": "^4.1.0",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

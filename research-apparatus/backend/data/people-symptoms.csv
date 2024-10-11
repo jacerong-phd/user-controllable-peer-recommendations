@@ -1,0 +1,47 @@
+person_id,symptom,severity
+1,High blood pressure,Moderate
+1,Low performance,Moderate
+1,Tiredness and fatigue,Moderate
+2,Stomach cramps,Moderate
+3,Shortness of breath,Severe
+4,Tiredness and fatigue,Moderate
+4,Shortness of breath,Moderate
+4,Edema,Mild
+5,Tiredness and fatigue,Severe
+5,Shortness of breath,Moderate
+5,Chest pressure,Mild
+6,Tiredness and fatigue,Mild
+7,Heart arrhythmia,Mild
+7,Exercise fatigue,Mild
+8,Tachycardia,Moderate
+8,Suffocation,Mild
+8,Tiredness and fatigue,Mild
+8,Hip and leg pain,Moderate
+9,Shortness of breath,Moderate
+9,Loss of mobility,Moderate
+9,Anxiety,Severe
+10,Head pressure,Severe
+10,Lack of energy,Severe
+11,Dizziness,Moderate
+11,Dry mouth,Moderate
+11,Headache,Severe
+11,Joint pain,Severe
+11,Vision loss,Moderate
+12,Pain,Moderate
+12,Anxiety,Mild
+13,Tachycardia,
+13,Bradycardia,Mild
+14,Lupus,Moderate
+14,Rheumatoid arthritis,Mild
+20,Cold feet,Moderate
+20,Muscle weakness,Moderate
+22,Tiredness and fatigue,Moderate
+22,Toe numbness,Moderate
+22,Cold hypersensitivity in the hands and feet,Moderate
+22,Shortness of breath,Moderate
+23,Knee instability,Moderate
+23,Tiredness and fatigue,Moderate
+23,Chest pain,Mild
+24,Irritable bowel syndrome,Moderate
+24,Acid reflux,Mild
+24,Back pain,Mild

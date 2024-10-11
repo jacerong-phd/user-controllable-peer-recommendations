@@ -1,0 +1,430 @@
+person_id,keyword,type,derived
+1,Back problems,clinical/condition,False
+1,Heart failure,clinical/condition,False
+1,High blood pressure,clinical/condition,False
+1,High blood pressure,clinical/symptom,False
+1,Low performance,clinical/symptom,False
+1,Tiredness and fatigue,clinical/symptom,False
+1,Beta-blockers,clinical/treatment/prescription,False
+1,Diuretics,clinical/treatment/prescription,False
+1,69,demographics/age,True
+1,65+,demographics/age range,False
+1,Female,demographics/gender,False
+1,Germany,demographics/location,False
+1,Lightly active,lifestyle/activity level,False
+1,Non-smoker,lifestyle/smoking status,False
+2,Coronary artery disease,clinical/condition,False
+2,Stomach cramps,clinical/symptom,False
+2,Physical exercise,clinical/treatment/exercises,False
+2,Beta-blockers,clinical/treatment/prescription,False
+2,Statins,clinical/treatment/prescription,False
+2,44,demographics/age,True
+2,35–44,demographics/age range,False
+2,Female,demographics/gender,False
+2,South Africa,demographics/location,False
+2,Moderately active,lifestyle/activity level,False
+2,Non-smoker,lifestyle/smoking status,False
+3,Heart failure,clinical/condition,False
+3,Shortness of breath,clinical/symptom,False
+3,Blood thinners,clinical/treatment/prescription,True
+3,Warfarin,clinical/treatment/prescription,False
+3,57,demographics/age,True
+3,55–64,demographics/age range,False
+3,Male,demographics/gender,False
+3,United Kingdom,demographics/location,False
+3,Lightly active,lifestyle/activity level,False
+3,Smoker,lifestyle/smoking status,False
+4,Coronary artery disease,clinical/condition,False
+4,Small vessel disease,clinical/condition,False
+4,Visual snow syndrome,clinical/condition,False
+4,Edema,clinical/symptom,False
+4,Shortness of breath,clinical/symptom,False
+4,Tiredness and fatigue,clinical/symptom,False
+4,Clonazepam,clinical/treatment/prescription,False
+4,Statins,clinical/treatment/prescription,False
+4,50,demographics/age,True
+4,45–54,demographics/age range,False
+4,Female,demographics/gender,False
+4,United Kingdom,demographics/location,False
+4,Lightly active,lifestyle/activity level,False
+4,Non-smoker,lifestyle/smoking status,False
+5,Heart failure,clinical/condition,False
+5,Chest pressure,clinical/symptom,False
+5,Shortness of breath,clinical/symptom,False
+5,Tiredness and fatigue,clinical/symptom,False
+5,Physiotherapy,clinical/treatment/physical therapy,False
+5,Atenolol,clinical/treatment/prescription,False
+5,Beta-blockers,clinical/treatment/prescription,True
+5,Entresto,clinical/treatment/prescription,False
+5,Sacubitril-Valsartan,clinical/treatment/prescription,True
+5,49,demographics/age,True
+5,45–54,demographics/age range,False
+5,Female,demographics/gender,False
+5,Netherlands,demographics/location,False
+5,Lightly active,lifestyle/activity level,False
+5,Non-smoker,lifestyle/smoking status,False
+6,Heart failure,clinical/condition,False
+6,Hypothyroidism,clinical/condition,False
+6,Tiredness and fatigue,clinical/symptom,False
+6,Levothyroxine,clinical/treatment/prescription,True
+6,Synthroid,clinical/treatment/prescription,False
+6,58,demographics/age,True
+6,55–64,demographics/age range,False
+6,Female,demographics/gender,False
+6,Canada,demographics/location,False
+6,Moderately active,lifestyle/activity level,False
+6,Non-smoker,lifestyle/smoking status,False
+7,Heart failure,clinical/condition,False
+7,Exercise fatigue,clinical/symptom,False
+7,Heart arrhythmia,clinical/symptom,False
+7,Angiotensin II receptor blockers,clinical/treatment/prescription,True
+7,Beta-blockers,clinical/treatment/prescription,True
+7,Bisoprolol,clinical/treatment/prescription,False
+7,Blood thinners,clinical/treatment/prescription,True
+7,Candesartan,clinical/treatment/prescription,False
+7,Warfarin,clinical/treatment/prescription,False
+7,71,demographics/age,True
+7,65+,demographics/age range,False
+7,Male,demographics/gender,False
+7,United Kingdom,demographics/location,False
+7,Moderately active,lifestyle/activity level,False
+7,Non-smoker,lifestyle/smoking status,False
+8,Congenital hip dysplasia,clinical/condition,False
+8,Coronary artery disease,clinical/condition,False
+8,Hodgkin lymphoma,clinical/condition,False
+8,Hip and leg pain,clinical/symptom,False
+8,Suffocation,clinical/symptom,False
+8,Tachycardia,clinical/symptom,False
+8,Tiredness and fatigue,clinical/symptom,False
+8,Hip prosthesis,clinical/treatment/equipment,False
+8,Chemotherapy,clinical/treatment/prescription,False
+8,Coronary artery stent,clinical/treatment/procedures,False
+8,57,demographics/age,True
+8,55–64,demographics/age range,False
+8,Female,demographics/gender,False
+8,Hungary,demographics/location,False
+8,Moderately active,lifestyle/activity level,False
+8,Non-smoker,lifestyle/smoking status,False
+9,Coronary artery disease,clinical/condition,False
+9,Depression,clinical/condition,False
+9,Anxiety,clinical/symptom,False
+9,Loss of mobility,clinical/symptom,False
+9,Shortness of breath,clinical/symptom,False
+9,Aspirin,clinical/treatment/over the counter,False
+9,Angiotensin-converting enzyme (ACE) inhibitors,clinical/treatment/prescription,True
+9,Antidepressants,clinical/treatment/prescription,True
+9,Atorvastatin,clinical/treatment/prescription,False
+9,Beta-blockers,clinical/treatment/prescription,True
+9,Bisoprolol,clinical/treatment/prescription,False
+9,Blood thinners,clinical/treatment/prescription,True
+9,Mirtazapine,clinical/treatment/prescription,False
+9,Ramipril,clinical/treatment/prescription,False
+9,Statins,clinical/treatment/prescription,True
+9,51,demographics/age,True
+9,45–54,demographics/age range,False
+9,Male,demographics/gender,False
+9,United Kingdom,demographics/location,False
+9,Sedentary,lifestyle/activity level,False
+9,Non-smoker,lifestyle/smoking status,False
+10,Coronary artery disease,clinical/condition,False
+10,High cholesterol,clinical/condition,False
+10,Hypothyroidism,clinical/condition,False
+10,Ischemic stroke,clinical/condition,False
+10,Head pressure,clinical/symptom,False
+10,Lack of energy,clinical/symptom,False
+10,Aspirin,clinical/treatment/over the counter,False
+10,Amlodipine,clinical/treatment/prescription,True
+10,Amlodipine besylate,clinical/treatment/prescription,False
+10,Angiotensin II receptor blockers,clinical/treatment/prescription,True
+10,Blood thinners,clinical/treatment/prescription,True
+10,Hydralazine,clinical/treatment/prescription,False
+10,Levothyroxine,clinical/treatment/prescription,False
+10,Losartan,clinical/treatment/prescription,True
+10,Losartan potassium,clinical/treatment/prescription,False
+10,Rosuvastatin,clinical/treatment/prescription,False
+10,Statins,clinical/treatment/prescription,True
+10,Vasodilators,clinical/treatment/prescription,True
+10,61,demographics/age,True
+10,55–64,demographics/age range,False
+10,Female,demographics/gender,False
+10,United States,demographics/location,False
+10,Lightly active,lifestyle/activity level,False
+10,Smoker,lifestyle/smoking status,False
+11,Coronary artery disease,clinical/condition,False
+11,Diabetes,clinical/condition,False
+11,High blood pressure,clinical/condition,False
+11,Dizziness,clinical/symptom,False
+11,Dry mouth,clinical/symptom,False
+11,Headache,clinical/symptom,False
+11,Joint pain,clinical/symptom,False
+11,Vision loss,clinical/symptom,False
+11,Aspirin,clinical/treatment/over the counter,False
+11,Amitriptyline,clinical/treatment/prescription,False
+11,Angiotensin II receptor blockers,clinical/treatment/prescription,True
+11,Anti-diabetics,clinical/treatment/prescription,True
+11,Aspavor,clinical/treatment/prescription,False
+11,Atorvastatin,clinical/treatment/prescription,True
+11,Blood thinners,clinical/treatment/prescription,True
+11,Blood thinners,clinical/treatment/prescription,True
+11,Clopidogrel,clinical/treatment/prescription,False
+11,Diuretics,clinical/treatment/prescription,True
+11,Hydrochlorothiazide,clinical/treatment/prescription,True
+11,Insulin,clinical/treatment/prescription,False
+11,Isosorbide dinitrate,clinical/treatment/prescription,False
+11,Losartan,clinical/treatment/prescription,False
+11,Ridaq,clinical/treatment/prescription,False
+11,Statins,clinical/treatment/prescription,True
+11,Vasodilators,clinical/treatment/prescription,True
+11,Coronary artery stent,clinical/treatment/procedures,False
+11,Pyridoxine,clinical/treatment/supplements,False
+11,Vitamin B6,clinical/treatment/supplements,True
+11,60,demographics/age,True
+11,55–64,demographics/age range,False
+11,Male,demographics/gender,False
+11,South Africa,demographics/location,False
+11,Moderately active,lifestyle/activity level,False
+11,Smoker,lifestyle/smoking status,False
+12,Ehlers-Danlos syndrome,clinical/condition,False
+12,Heart failure,clinical/condition,False
+12,Osteoarthritis,clinical/condition,False
+12,Anxiety,clinical/symptom,False
+12,Pain,clinical/symptom,False
+12,Acetaminophen,clinical/treatment/over the counter,False
+12,Aspirin,clinical/treatment/over the counter,False
+12,Ibuprofen,clinical/treatment/over the counter,False
+12,Paracetamol,clinical/treatment/over the counter,True
+12,Antidepressants,clinical/treatment/prescription,True
+12,Blood thinners,clinical/treatment/prescription,True
+12,Diuretics,clinical/treatment/prescription,True
+12,Klor-Con,clinical/treatment/prescription,False
+12,Levothyroxine,clinical/treatment/prescription,False
+12,Potassium chloride,clinical/treatment/prescription,True
+12,Sertraline,clinical/treatment/prescription,False
+12,Topiramate,clinical/treatment/prescription,False
+12,Torsemide,clinical/treatment/prescription,False
+12,Cranberry,clinical/treatment/supplements,False
+12,Glucosamine,clinical/treatment/supplements,True
+12,Glucosamine chondroitine,clinical/treatment/supplements,False
+12,63,demographics/age,True
+12,55–64,demographics/age range,False
+12,Female,demographics/gender,False
+12,United States,demographics/location,False
+12,Sedentary,lifestyle/activity level,False
+12,Smoker,lifestyle/smoking status,False
+13,Heart failure,clinical/condition,False
+13,Bradycardia,clinical/symptom,False
+13,Tachycardia,clinical/symptom,False
+13,Mild exercise,clinical/treatment/exercises,False
+13,Physical exercise,clinical/treatment/exercises,True
+13,Beta-blockers,clinical/treatment/prescription,False
+13,58,demographics/age,True
+13,55–64,demographics/age range,False
+13,Male,demographics/gender,False
+13,United Kingdom,demographics/location,False
+13,Moderately active,lifestyle/activity level,False
+13,Non-smoker,lifestyle/smoking status,False
+14,Coronary artery disease,clinical/condition,False
+14,Lupus,clinical/condition,False
+14,Rheumatoid arthritis,clinical/condition,False
+14,Lupus,clinical/symptom,False
+14,Rheumatoid arthritis,clinical/symptom,False
+14,Aspirin,clinical/treatment/over the counter,True
+14,Ecotrin,clinical/treatment/over the counter,False
+14,Azathioprine,clinical/treatment/prescription,False
+14,Beta-blockers,clinical/treatment/prescription,True
+14,Blood thinners,clinical/treatment/prescription,True
+14,Blood thinners,clinical/treatment/prescription,True
+14,Cardicor,clinical/treatment/prescription,False
+14,Euthyrox,clinical/treatment/prescription,False
+14,Levothyroxine,clinical/treatment/prescription,True
+14,Warfarin,clinical/treatment/prescription,False
+14,66,demographics/age,True
+14,65+,demographics/age range,False
+14,Female,demographics/gender,False
+14,South Africa,demographics/location,False
+14,Lightly active,lifestyle/activity level,False
+14,Non-smoker,lifestyle/smoking status,False
+15,Coronary artery disease,clinical/condition,False
+15,Covid,clinical/condition,False
+15,Gout,clinical/condition,False
+15,Aspirin,clinical/treatment/over the counter,False
+15,Allopurinol,clinical/treatment/prescription,False
+15,Blood thinners,clinical/treatment/prescription,True
+15,66,demographics/age,True
+15,65+,demographics/age range,False
+15,Male,demographics/gender,False
+15,Portugal,demographics/location,False
+15,Sedentary,lifestyle/activity level,False
+16,Heart failure,clinical/condition,False
+16,Aspirin,clinical/treatment/over the counter,False
+16,Angiotensin-converting enzyme (ACE) inhibitors,clinical/treatment/prescription,True
+16,Atenolol,clinical/treatment/prescription,False
+16,Atorvastatin,clinical/treatment/prescription,False
+16,Beta-blockers,clinical/treatment/prescription,True
+16,Blood thinners,clinical/treatment/prescription,True
+16,Ramipril,clinical/treatment/prescription,False
+16,Statins,clinical/treatment/prescription,True
+16,68,demographics/age,True
+16,65+,demographics/age range,False
+16,Female,demographics/gender,False
+16,United Kingdom,demographics/location,False
+16,Lightly active,lifestyle/activity level,False
+16,Non-smoker,lifestyle/smoking status,False
+17,Heart failure,clinical/condition,False
+17,Aspirin,clinical/treatment/over the counter,False
+17,Anti-diabetics,clinical/treatment/prescription,True
+17,Atorvastatin,clinical/treatment/prescription,False
+17,Beta-blockers,clinical/treatment/prescription,True
+17,Blood thinners,clinical/treatment/prescription,True
+17,Diuretics,clinical/treatment/prescription,True
+17,Entresto,clinical/treatment/prescription,False
+17,Ezetimibe,clinical/treatment/prescription,False
+17,Furix,clinical/treatment/prescription,False
+17,Furosemide,clinical/treatment/prescription,True
+17,Metformin,clinical/treatment/prescription,False
+17,Metoprolol,clinical/treatment/prescription,False
+17,Sacubitril-Valsartan,clinical/treatment/prescription,True
+17,Statins,clinical/treatment/prescription,True
+17,54,demographics/age,True
+17,45–54,demographics/age range,False
+17,Male,demographics/gender,False
+17,Norway,demographics/location,False
+17,Moderately active,lifestyle/activity level,False
+17,Smoker,lifestyle/smoking status,False
+18,Coronary artery disease,clinical/condition,False
+18,Aspirin,clinical/treatment/over the counter,False
+18,Atorvastatin,clinical/treatment/prescription,False
+18,Blood thinners,clinical/treatment/prescription,True
+18,Omeprazole,clinical/treatment/prescription,False
+18,Statins,clinical/treatment/prescription,True
+18,Coronary artery stent,clinical/treatment/procedures,False
+18,56,demographics/age,True
+18,55–64,demographics/age range,False
+18,Male,demographics/gender,False
+18,United Kingdom,demographics/location,False
+18,Lightly active,lifestyle/activity level,False
+18,Non-smoker,lifestyle/smoking status,False
+19,Coronary artery disease,clinical/condition,False
+19,Simvastatin,clinical/treatment/prescription,False
+19,Statins,clinical/treatment/prescription,True
+19,72,demographics/age,True
+19,65+,demographics/age range,False
+19,Female,demographics/gender,False
+19,South Africa,demographics/location,False
+19,Sedentary,lifestyle/activity level,False
+19,Non-smoker,lifestyle/smoking status,False
+20,Coronary artery disease,clinical/condition,False
+20,Heart attack,clinical/condition,False
+20,Peripheral vascular disease,clinical/condition,False
+20,Cold feet,clinical/symptom,False
+20,Muscle weakness,clinical/symptom,False
+20,Aspirin,clinical/treatment/over the counter,False
+20,Walking therapy,clinical/treatment/physical therapy,False
+20,Blood thinners,clinical/treatment/prescription,True
+20,Inclisiran,clinical/treatment/prescription,True
+20,Leqvio,clinical/treatment/prescription,False
+20,Coronary artery stent,clinical/treatment/procedures,False
+20,Inguinal hernia repair,clinical/treatment/procedures,False
+20,Coronary angioplasty,clinical/treatment/surgeries,False
+20,73,demographics/age,True
+20,65+,demographics/age range,False
+20,Male,demographics/gender,False
+20,Netherlands,demographics/location,False
+20,Moderately active,lifestyle/activity level,False
+20,Non-smoker,lifestyle/smoking status,False
+21,Coronary artery disease,clinical/condition,False
+21,Aspirin,clinical/treatment/over the counter,False
+21,Amlodipine,clinical/treatment/prescription,True
+21,Amlodipine maleate,clinical/treatment/prescription,False
+21,Angiotensin-converting enzyme (ACE) inhibitors,clinical/treatment/prescription,False
+21,Blood thinners,clinical/treatment/prescription,True
+21,Statins,clinical/treatment/prescription,False
+21,Glucosamine,clinical/treatment/supplements,False
+21,Omega 3 capsules,clinical/treatment/supplements,False
+21,66,demographics/age,True
+21,65+,demographics/age range,False
+21,Male,demographics/gender,False
+21,United Kingdom,demographics/location,False
+21,Sedentary,lifestyle/activity level,False
+21,Non-smoker,lifestyle/smoking status,False
+22,Atrial fibrillation,clinical/condition,False
+22,Edema,clinical/condition,False
+22,Heart failure,clinical/condition,False
+22,Sleep apnoea,clinical/condition,False
+22,Cold hypersensitivity in the hands and feet,clinical/symptom,False
+22,Shortness of breath,clinical/symptom,False
+22,Tiredness and fatigue,clinical/symptom,False
+22,Toe numbness,clinical/symptom,False
+22,Beta-blockers,clinical/treatment/prescription,False
+22,Blood thinners,clinical/treatment/prescription,False
+22,Diuretics,clinical/treatment/prescription,False
+22,74,demographics/age,True
+22,65+,demographics/age range,False
+22,Male,demographics/gender,False
+22,United Kingdom,demographics/location,False
+22,Lightly active,lifestyle/activity level,False
+22,Non-smoker,lifestyle/smoking status,False
+23,Coronary artery disease,clinical/condition,False
+23,Diabetes,clinical/condition,False
+23,Osteoarthritis of the knee,clinical/condition,False
+23,Chest pain,clinical/symptom,False
+23,Knee instability,clinical/symptom,False
+23,Tiredness and fatigue,clinical/symptom,False
+23,Knee brace,clinical/treatment/equipment,False
+23,Therapeutic brace,clinical/treatment/equipment,True
+23,Walking Stick/Cane,clinical/treatment/equipment,False
+23,Exercise,clinical/treatment/exercises,False
+23,Physical exercise,clinical/treatment/exercises,True
+23,Diet,clinical/treatment/nutrition/diets,False
+23,Aspirin,clinical/treatment/over the counter,False
+23,Angiotensin II receptor blockers,clinical/treatment/prescription,True
+23,Anti-diabetics,clinical/treatment/prescription,True
+23,Anti-diabetics,clinical/treatment/prescription,True
+23,Atorvastatin,clinical/treatment/prescription,False
+23,Beta-blockers,clinical/treatment/prescription,True
+23,Blood thinners,clinical/treatment/prescription,True
+23,Chlorthalidone,clinical/treatment/prescription,False
+23,Diuretics,clinical/treatment/prescription,True
+23,Empagliflozin,clinical/treatment/prescription,True
+23,Ezetimibe,clinical/treatment/prescription,False
+23,Insulin,clinical/treatment/prescription,False
+23,Jardiance,clinical/treatment/prescription,False
+23,Metoprolol,clinical/treatment/prescription,False
+23,Ozempic,clinical/treatment/prescription,False
+23,Semaglutide,clinical/treatment/prescription,True
+23,Statins,clinical/treatment/prescription,True
+23,Telmisartan,clinical/treatment/prescription,False
+23,51,demographics/age,True
+23,45–54,demographics/age range,False
+23,Female,demographics/gender,False
+23,Canada,demographics/location,False
+23,Lightly active,lifestyle/activity level,False
+23,Non-smoker,lifestyle/smoking status,False
+24,Heart failure,clinical/condition,False
+24,Acid reflux,clinical/symptom,False
+24,Back pain,clinical/symptom,False
+24,Irritable bowel syndrome,clinical/symptom,False
+24,Aspirin,clinical/treatment/over the counter,False
+24,Angiotensin II receptor blockers,clinical/treatment/prescription,True
+24,Beta-blockers,clinical/treatment/prescription,True
+24,Bisoprolol,clinical/treatment/prescription,False
+24,Blood thinners,clinical/treatment/prescription,True
+24,Losartan,clinical/treatment/prescription,False
+24,Omeprazole,clinical/treatment/prescription,False
+24,59,demographics/age,True
+24,55–64,demographics/age range,False
+24,Male,demographics/gender,False
+24,United Kingdom,demographics/location,False
+24,Moderately active,lifestyle/activity level,False
+24,Non-smoker,lifestyle/smoking status,False
+25,Depression,clinical/condition,False
+25,Diabetes,clinical/condition,False
+25,Heart failure,clinical/condition,False
+25,Antidepressants,clinical/treatment/prescription,True
+25,Fluoxetine,clinical/treatment/prescription,False
+25,66,demographics/age,True
+25,65+,demographics/age range,False
+25,Female,demographics/gender,False
+25,United States,demographics/location,False
+25,Very active,lifestyle/activity level,False
+25,Smoker,lifestyle/smoking status,False

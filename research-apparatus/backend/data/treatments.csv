@@ -1,0 +1,210 @@
+﻿id,parent_id,treatment,type
+1,,Angiotensin-converting enzyme (ACE) inhibitors,Prescription
+2,73,Acetaminophen,Over the counter
+3,,Allopurinol,Prescription
+4,,Amitriptyline,Prescription
+5,,Amlodipine,Prescription
+6,5,Amlodipine besylate,Prescription
+7,5,Amlodipine maleate,Prescription
+8,,Blood thinners,Prescription
+9,12,Aspavor,Prescription
+10,8,Aspirin,Over the counter
+11,14,Atenolol,Prescription
+12,64,Atorvastatin,Prescription
+13,,Azathioprine,Prescription
+14,,Beta-blockers,Prescription
+15,14,Bisoprolol,Prescription
+16,82,Candesartan,Prescription
+17,14,Cardicor,Prescription
+18,,Chemotherapy,Prescription
+19,26,Chlorthalidone,Prescription
+20,,Clonazepam,Prescription
+21,8,Clopidogrel,Prescription
+22,,Coronary angioplasty,Surgeries
+23,,Coronary artery stent,Procedures
+24,,Cranberry,Supplements
+25,,Diet,Nutrition/Diets
+26,,Diuretics,Prescription
+27,10,Ecotrin,Over the counter
+28,74,Entresto,Prescription
+29,46,Euthyrox,Prescription
+30,56,Exercise,Exercises
+31,,Ezetimibe,Prescription
+32,75,Fluoxetine,Prescription
+33,76,Furix,Prescription
+34,,Glucosamine,Supplements
+35,34,Glucosamine chondroitine,Supplements
+36,,Hip prosthesis,Equipment
+37,77,Hydralazine,Prescription
+38,,Ibuprofen,Over the counter
+39,,Inguinal hernia repair,Procedures
+40,83,Insulin,Prescription
+41,77,Isosorbide dinitrate,Prescription
+42,78,Jardiance,Prescription
+43,79,Klor-Con,Prescription
+44,80,Knee brace,Equipment
+45,81,Leqvio,Prescription
+46,,Levothyroxine,Prescription
+47,82,Losartan,Prescription
+48,47,Losartan potassium,Prescription
+49,83,Metformin,Prescription
+50,14,Metoprolol,Prescription
+51,56,Mild exercise,Exercises
+52,75,Mirtazapine,Prescription
+53,,Omega 3 capsules,Supplements
+54,,Omeprazole,Prescription
+55,84,Ozempic,Prescription
+56,,Physical exercise,Exercises
+57,,Physiotherapy,Physical Therapy
+58,85,Pyridoxine,Supplements
+59,1,Ramipril,Prescription
+60,86,Ridaq,Prescription
+61,64,Rosuvastatin,Prescription
+62,75,Sertraline,Prescription
+63,64,Simvastatin,Prescription
+64,,Statins,Prescription
+65,46,Synthroid,Prescription
+66,82,Telmisartan,Prescription
+67,,Topiramate,Prescription
+68,26,Torsemide,Prescription
+69,,Walking Stick/Cane,Equipment
+70,,Walking therapy,Physical Therapy
+71,8,Warfarin,Prescription
+73,,Paracetamol,Over the counter
+74,,Sacubitril-Valsartan,Prescription
+75,,Antidepressants,Prescription
+76,26,Furosemide,Prescription
+77,,Vasodilators,Prescription
+78,,Empagliflozin,Prescription
+79,,Potassium chloride,Prescription
+80,,Therapeutic brace,Equipment
+81,,Inclisiran,Prescription
+82,,Angiotensin II receptor blockers,Prescription
+83,,Anti-diabetics,Prescription
+84,83,Semaglutide,Prescription
+85,,Vitamin B6,Supplements
+86,26,Hydrochlorothiazide,Prescription
+87,12,Lipitor,Prescription
+88,89,Vipidia,Prescription
+89,83,Alogliptin,Prescription
+90,91,Carbimazole,Prescription
+91,,Anti-thyroid,Prescription
+92,8,Apixaban,Prescription
+93,26,Spironolactone,Prescription
+94,14,Carvedilol,Prescription
+95,96,Entocort,Prescription
+96,,Budesonide,Prescription
+97,,Vitamin B12 Injection,Prescription
+98,100,Trimetazidine,Prescription
+99,98,Vastarel,Prescription
+100,,Anti-ischemic agent,Prescription
+101,26,Indapamide,Prescription
+102,,Loperamide,Over the counter
+103,75,Citalopram,Prescription
+104,38,Nurofen,Over the counter
+105,14,Sotalol,Prescription
+106,66,Teldipin,Prescription
+107,108,Thiazolidinediones,Prescription
+108,,Glitazones,Prescription
+109,110,Victan,Prescription
+110,111,Ethyl loflazepate,Prescription
+111,,Benzodiazepines,Prescription
+112,75,Escitalopram,Prescription
+113,75,Mirtazapine,Prescription
+114,115,Lorsedal,Prescription
+115,111,Lorazepam ,Prescription
+116,,Solifenacin,Prescription
+117,77,Isosorbide mononitrate,Prescription
+118,77,Nitroglycerin,Prescription
+119,120,Fluconazole,Prescription
+120,,Anti-fungal,Prescription
+121,83,Gliclazide,Prescription
+122,,Kelhale,Prescription
+123,,Cognitive behavioural therapy,Psychotherapy
+124,189,Salbutamol,Prescription
+125,,Venetoclax,Prescription
+126,,Adcal D3,Supplements
+127,,Thyroidectomy,Surgeries
+128,,Electrical cardioversion,Procedures
+129,,Sulfasalazine,Prescription
+130,,Hydroxychloroquine ,Prescription
+131,,Etanercept,Prescription
+132,,Alfacalcidol,Prescription
+133,,Calvive,Supplements
+134,14,Co-tenidone,Prescription
+135,136,Diclofenac,Prescription
+136,,Non-steroidal anti-inflammatory,Prescription
+137,,Apple cider vinegar,Supplements
+138,,Whole foods,Nutrition/Diets
+139,,Cardiac rehabilitation,Physical Therapy
+140,,Bupropion,Prescription
+141,142,Brilinta,Prescription
+142,8,Ticagrelor,Prescription
+143,,Gabapentin,Prescription
+144,,Methadone,Prescription
+145,146,Cymbalta,Prescription
+146,75,Duloxetine,Prescription
+147,32,Prozac,Prescription
+148,150,Mycophenolate mofetil,Prescription
+149,150,Tacrolimus,Prescription
+150,,Immunosuppressant agent,Prescription
+151,152,Repatha,Prescription
+152,,Evolocumab,Prescription
+153,31,Nexlizet,Prescription
+154,155,Xarelto,Prescription
+155,8,Rivaroxaban,Prescription
+156,83,Sulfonylureas,Prescription
+157,,Coronary artery bypass graft,Surgeries
+158,,Healthy eating,Nutrition/Diets
+159,83,GLP-1 agonists,Prescription
+160,1,Enalapril,Prescription
+161,86,Ridaq,Prescription
+162,,Lansoprazole,Prescription
+163,117,Chemydur,Prescription
+164,,Coronary angiography,Procedures
+165,,Cardiac MRI,Procedures
+166,,Radiation therapy,Procedures
+167,1,Lisinopril,Prescription
+168,,Vitamin D,Supplements
+169,,Heart pacemaker,Equipment
+170,14,Tenopress,Prescription
+171,10,Disprin,Prescription
+172,173,Nebilet,Prescription
+173,14,Nebivolol,Prescription
+174,64,Rosetin,Prescription
+175,21,Plavix,Prescription
+176,,Antiretrovirals,Prescription
+177,,Doxycycline,Prescription
+178,,Azithromycin,Prescription
+179,180,Ranexa,Prescription
+180,,Ranolazine,Prescription
+181,94,Coreg,Prescription
+182,93,Aldactone,Prescription
+183,21,Plavic,Prescription
+184,,Cardizoom,Supplements
+185,186,Capoten,Prescription
+186,1,Captopril,Prescription
+187,82,Valsartan,Prescription
+188,,Magnesium,Supplements
+189,,Albuterol,Prescription
+190,75,Venlafaxine,Prescription
+191,,Pantoprazole,Prescription
+192,,Ondansetron,Prescription
+193,194,Creon,Prescription
+194,,Pancrelipase,Prescription
+195,2,Vicodin,Prescription
+196,,Trelegy Ellipta,Prescription
+197,,Doxazosin,Prescription
+198,,Folic Acid,Supplements
+199,,Blood Transfusion,Procedures
+200,,Vincristine,Prescription
+201,,Cyclophosphamide,Prescription
+202,,Doxorubicin,Prescription
+203,,Transurethral resection of the prostate,Surgeries
+204,,Gemfibrozil,Prescription
+205,,Montelukast,Prescription
+206,,Cabotegravir,Prescription
+207,,Low-carb diet,Nutrition/Diets
+208,,Lidocaine patch,Prescription
+209,,Naproxen,Over the counter
+210,,Quetiapine,Prescription

@@ -1,0 +1,1990 @@
+prolific_id,completion_time,condition,construct,indicator,rating
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation diversity,D1,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation diversity,D2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation diversity,D3,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived system effectiveness,E1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived system effectiveness,E2,-1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived system effectiveness,E3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived transparency,P1,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived transparency,P2,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived transparency,P3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation quality,Q1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation quality,Q2,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation quality,Q3,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived recommendation quality,Q4,-2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived trust,T1,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived trust,T2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived trust,T3,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:04:52,HETG_CONT,Perceived trust,T4,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation diversity,D1,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation diversity,D2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation diversity,D3,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived system effectiveness,E1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived system effectiveness,E2,-1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived system effectiveness,E3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived transparency,P1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived transparency,P2,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived transparency,P3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation quality,Q1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation quality,Q2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation quality,Q3,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived recommendation quality,Q4,-2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived trust,T1,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived trust,T2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived trust,T3,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:12:01,BASE,Perceived trust,T4,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation diversity,D1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation diversity,D2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation diversity,D3,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived system effectiveness,E1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived system effectiveness,E2,-1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived system effectiveness,E3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived transparency,P1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived transparency,P2,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived transparency,P3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation quality,Q1,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation quality,Q2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation quality,Q3,2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived recommendation quality,Q4,-2
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived trust,T1,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived trust,T2,1
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived trust,T3,0
+65be49c47056d13e2b2fa4b6,2024-05-15 13:16:57,BASE_CONT,Perceived trust,T4,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation diversity,D1,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation diversity,D2,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation diversity,D3,2
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived system effectiveness,E1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived system effectiveness,E2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived system effectiveness,E3,2
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived transparency,P1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived transparency,P2,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived transparency,P3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation quality,Q1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation quality,Q2,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation quality,Q3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived recommendation quality,Q4,-1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived trust,T1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived trust,T2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived trust,T3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:46:57,BASE,Perceived trust,T4,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation diversity,D1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation diversity,D2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation diversity,D3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived system effectiveness,E1,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived system effectiveness,E2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived system effectiveness,E3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived transparency,P1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived transparency,P2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived transparency,P3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation quality,Q1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation quality,Q2,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation quality,Q3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived recommendation quality,Q4,-1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived trust,T1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived trust,T2,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived trust,T3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 18:58:32,BASE_CONT,Perceived trust,T4,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation diversity,D1,1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation diversity,D2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation diversity,D3,1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived system effectiveness,E1,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived system effectiveness,E2,1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived system effectiveness,E3,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived transparency,P1,-1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived transparency,P2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived transparency,P3,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation quality,Q1,-1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation quality,Q2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation quality,Q3,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived recommendation quality,Q4,1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived trust,T1,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived trust,T2,0
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived trust,T3,-1
+5fb25a7e5960a87fb627c12b,2024-05-16 19:10:15,HETG_CONT,Perceived trust,T4,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation diversity,D1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation diversity,D2,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation diversity,D3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived system effectiveness,E1,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived system effectiveness,E2,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived system effectiveness,E3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived transparency,P1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived transparency,P2,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived transparency,P3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation quality,Q1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation quality,Q2,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation quality,Q3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived recommendation quality,Q4,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived trust,T1,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived trust,T2,0
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived trust,T3,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:27:18,BASE,Perceived trust,T4,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation diversity,D1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation diversity,D2,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation diversity,D3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived system effectiveness,E1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived system effectiveness,E2,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived system effectiveness,E3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived transparency,P1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived transparency,P2,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived transparency,P3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation quality,Q1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation quality,Q2,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation quality,Q3,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived recommendation quality,Q4,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived trust,T1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived trust,T2,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived trust,T3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:34:48,BASE_CONT,Perceived trust,T4,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation diversity,D1,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation diversity,D2,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation diversity,D3,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived system effectiveness,E1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived system effectiveness,E2,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived system effectiveness,E3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived transparency,P1,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived transparency,P2,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived transparency,P3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation quality,Q1,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation quality,Q2,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation quality,Q3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived recommendation quality,Q4,-2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived trust,T1,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived trust,T2,1
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived trust,T3,2
+5b70758cf3dd6600010aa9eb,2024-05-17 12:40:07,HETG_CONT,Perceived trust,T4,2
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation diversity,D1,2
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation diversity,D2,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation diversity,D3,2
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived system effectiveness,E1,2
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived system effectiveness,E2,-1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived system effectiveness,E3,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived transparency,P1,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived transparency,P2,2
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived transparency,P3,2
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation quality,Q1,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation quality,Q2,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation quality,Q3,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived recommendation quality,Q4,-1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived trust,T1,0
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived trust,T2,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived trust,T3,1
+651dca24450512351f0e0219,2024-05-17 15:29:39,BASE_CONT,Perceived trust,T4,0
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation diversity,D1,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation diversity,D2,0
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation diversity,D3,1
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived system effectiveness,E1,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived system effectiveness,E2,-1
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived system effectiveness,E3,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived transparency,P1,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived transparency,P2,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived transparency,P3,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation quality,Q1,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation quality,Q2,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation quality,Q3,2
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived recommendation quality,Q4,-1
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived trust,T1,1
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived trust,T2,1
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived trust,T3,1
+651dca24450512351f0e0219,2024-05-17 15:40:25,HETG_CONT,Perceived trust,T4,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation diversity,D1,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation diversity,D2,-1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation diversity,D3,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived system effectiveness,E1,2
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived system effectiveness,E2,-2
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived system effectiveness,E3,2
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived transparency,P1,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived transparency,P2,0
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived transparency,P3,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation quality,Q1,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation quality,Q2,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation quality,Q3,0
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived recommendation quality,Q4,-2
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived trust,T1,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived trust,T2,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived trust,T3,1
+651dca24450512351f0e0219,2024-05-17 15:51:55,BASE,Perceived trust,T4,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation diversity,D1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation diversity,D2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation diversity,D3,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived system effectiveness,E1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived system effectiveness,E2,-2
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived system effectiveness,E3,2
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived transparency,P1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived transparency,P2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived transparency,P3,2
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation quality,Q1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation quality,Q2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation quality,Q3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived recommendation quality,Q4,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived trust,T1,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived trust,T2,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived trust,T3,2
+65ff01d514284efb5b55cbd4,2024-05-17 18:36:21,BASE_CONT,Perceived trust,T4,2
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation diversity,D1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation diversity,D2,-1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation diversity,D3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived system effectiveness,E1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived system effectiveness,E2,-1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived system effectiveness,E3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived transparency,P1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived transparency,P2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived transparency,P3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation quality,Q1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation quality,Q2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation quality,Q3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived recommendation quality,Q4,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived trust,T1,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived trust,T2,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived trust,T3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:42:21,HETG_CONT,Perceived trust,T4,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation diversity,D1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation diversity,D2,-1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation diversity,D3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived system effectiveness,E1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived system effectiveness,E2,-1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived system effectiveness,E3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived transparency,P1,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived transparency,P2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived transparency,P3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation quality,Q1,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation quality,Q2,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation quality,Q3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived recommendation quality,Q4,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived trust,T1,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived trust,T2,0
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived trust,T3,1
+65ff01d514284efb5b55cbd4,2024-05-17 18:52:13,BASE,Perceived trust,T4,0
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation diversity,D1,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation diversity,D2,0
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation diversity,D3,2
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived system effectiveness,E1,2
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived system effectiveness,E2,-1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived system effectiveness,E3,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived transparency,P1,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived transparency,P2,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived transparency,P3,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation quality,Q1,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation quality,Q2,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation quality,Q3,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived recommendation quality,Q4,-2
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived trust,T1,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived trust,T2,1
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived trust,T3,2
+5f674b595c87a8334bae7,2024-05-23 10:35:53,HETG_CONT,Perceived trust,T4,2
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation diversity,D1,2
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation diversity,D2,-1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation diversity,D3,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived system effectiveness,E1,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived system effectiveness,E2,-1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived system effectiveness,E3,2
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived transparency,P1,-1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived transparency,P2,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived transparency,P3,0
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation quality,Q1,0
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation quality,Q2,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation quality,Q3,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived recommendation quality,Q4,-2
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived trust,T1,0
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived trust,T2,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived trust,T3,1
+5f674b595c87a8334bae7,2024-05-23 10:50:56,BASE_CONT,Perceived trust,T4,2
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation diversity,D1,1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation diversity,D2,-1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation diversity,D3,1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived system effectiveness,E1,2
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived system effectiveness,E2,-2
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived system effectiveness,E3,2
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived transparency,P1,0
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived transparency,P2,-1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived transparency,P3,-1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation quality,Q1,1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation quality,Q2,1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation quality,Q3,0
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived recommendation quality,Q4,-2
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived trust,T1,1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived trust,T2,1
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived trust,T3,0
+5f674b595c87a8334bae7,2024-05-23 11:01:52,BASE,Perceived trust,T4,1
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation diversity,D1,1
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation diversity,D2,1
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation diversity,D3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived system effectiveness,E1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived system effectiveness,E2,-2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived system effectiveness,E3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived transparency,P1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived transparency,P2,1
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived transparency,P3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation quality,Q1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation quality,Q2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation quality,Q3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived recommendation quality,Q4,-2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived trust,T1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived trust,T2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived trust,T3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 17:51:16,BASE,Perceived trust,T4,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation diversity,D1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation diversity,D2,1
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation diversity,D3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived system effectiveness,E1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived system effectiveness,E2,-2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived system effectiveness,E3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived transparency,P1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived transparency,P2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived transparency,P3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation quality,Q1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation quality,Q2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation quality,Q3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived recommendation quality,Q4,-2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived trust,T1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived trust,T2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived trust,T3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:01:03,BASE_CONT,Perceived trust,T4,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation diversity,D1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation diversity,D2,1
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation diversity,D3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived system effectiveness,E1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived system effectiveness,E2,-2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived system effectiveness,E3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived transparency,P1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived transparency,P2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived transparency,P3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation quality,Q1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation quality,Q2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation quality,Q3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived recommendation quality,Q4,-2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived trust,T1,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived trust,T2,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived trust,T3,2
+65561aaf0bf86db2c8d124a2,2024-05-23 18:09:23,HETG_CONT,Perceived trust,T4,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation diversity,D1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation diversity,D2,0
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation diversity,D3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived system effectiveness,E1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived system effectiveness,E2,-2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived system effectiveness,E3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived transparency,P1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived transparency,P2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived transparency,P3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation quality,Q1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation quality,Q2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation quality,Q3,1
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived recommendation quality,Q4,-2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived trust,T1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived trust,T2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived trust,T3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:23:05,BASE,Perceived trust,T4,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation diversity,D1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation diversity,D2,-1
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation diversity,D3,1
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived system effectiveness,E1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived system effectiveness,E2,-2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived system effectiveness,E3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived transparency,P1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived transparency,P2,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived transparency,P3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation quality,Q1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation quality,Q2,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation quality,Q3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived recommendation quality,Q4,-2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived trust,T1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived trust,T2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived trust,T3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:36:36,HETG_CONT,Perceived trust,T4,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation diversity,D1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation diversity,D2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation diversity,D3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived system effectiveness,E1,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived system effectiveness,E2,-2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived system effectiveness,E3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived transparency,P1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived transparency,P2,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived transparency,P3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation quality,Q1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation quality,Q2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation quality,Q3,2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived recommendation quality,Q4,-2
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived trust,T1,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived trust,T2,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived trust,T3,1
+5e35373e1ddb124e6c306747,2024-05-24 12:45:49,BASE_CONT,Perceived trust,T4,2
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation diversity,D1,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation diversity,D2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation diversity,D3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived system effectiveness,E1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived system effectiveness,E2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived system effectiveness,E3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived transparency,P1,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived transparency,P2,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived transparency,P3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation quality,Q1,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation quality,Q2,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation quality,Q3,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived recommendation quality,Q4,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived trust,T1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived trust,T2,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived trust,T3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:22:50,HETG_CONT,Perceived trust,T4,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation diversity,D1,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation diversity,D2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation diversity,D3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived system effectiveness,E1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived system effectiveness,E2,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived system effectiveness,E3,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived transparency,P1,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived transparency,P2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived transparency,P3,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation quality,Q1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation quality,Q2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation quality,Q3,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived recommendation quality,Q4,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived trust,T1,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived trust,T2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived trust,T3,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:37:48,BASE_CONT,Perceived trust,T4,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation diversity,D1,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation diversity,D2,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation diversity,D3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived system effectiveness,E1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived system effectiveness,E2,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived system effectiveness,E3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived transparency,P1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived transparency,P2,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived transparency,P3,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation quality,Q1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation quality,Q2,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation quality,Q3,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived recommendation quality,Q4,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived trust,T1,0
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived trust,T2,1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived trust,T3,-1
+59a3b1a35fd74b0001abf9c1,2024-05-24 15:48:02,BASE,Perceived trust,T4,0
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation diversity,D1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation diversity,D2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation diversity,D3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived system effectiveness,E1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived system effectiveness,E2,-1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived system effectiveness,E3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived transparency,P1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived transparency,P2,0
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived transparency,P3,0
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation quality,Q1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation quality,Q2,2
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation quality,Q3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived recommendation quality,Q4,-1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived trust,T1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived trust,T2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived trust,T3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:27:16,BASE,Perceived trust,T4,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation diversity,D1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation diversity,D2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation diversity,D3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived system effectiveness,E1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived system effectiveness,E2,0
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived system effectiveness,E3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived transparency,P1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived transparency,P2,2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived transparency,P3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation quality,Q1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation quality,Q2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation quality,Q3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived recommendation quality,Q4,-2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived trust,T1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived trust,T2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived trust,T3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:37:15,BASE_CONT,Perceived trust,T4,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation diversity,D1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation diversity,D2,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation diversity,D3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived system effectiveness,E1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived system effectiveness,E2,-1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived system effectiveness,E3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived transparency,P1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived transparency,P2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived transparency,P3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation quality,Q1,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation quality,Q2,1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation quality,Q3,1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived recommendation quality,Q4,-2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived trust,T1,1
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived trust,T2,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived trust,T3,2
+5a9e9fc46219a30001f54994,2024-05-28 10:45:48,HETG_CONT,Perceived trust,T4,2
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation diversity,D1,0
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation diversity,D2,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation diversity,D3,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived system effectiveness,E1,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived system effectiveness,E2,-1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived system effectiveness,E3,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived transparency,P1,0
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived transparency,P2,-1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived transparency,P3,2
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation quality,Q1,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation quality,Q2,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation quality,Q3,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived recommendation quality,Q4,-2
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived trust,T1,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived trust,T2,1
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived trust,T3,0
+66398f6666729e9c617cf032,2024-05-29 14:22:35,BASE_CONT,Perceived trust,T4,0
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation diversity,D1,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation diversity,D2,-2
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation diversity,D3,0
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived system effectiveness,E1,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived system effectiveness,E2,-2
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived system effectiveness,E3,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived transparency,P1,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived transparency,P2,2
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived transparency,P3,2
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation quality,Q1,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation quality,Q2,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation quality,Q3,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived recommendation quality,Q4,-2
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived trust,T1,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived trust,T2,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived trust,T3,1
+66398f6666729e9c617cf032,2024-05-29 14:36:17,HETG_CONT,Perceived trust,T4,0
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation diversity,D1,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation diversity,D2,-2
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation diversity,D3,0
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived system effectiveness,E1,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived system effectiveness,E2,-2
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived system effectiveness,E3,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived transparency,P1,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived transparency,P2,2
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived transparency,P3,2
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation quality,Q1,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation quality,Q2,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation quality,Q3,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived recommendation quality,Q4,-2
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived trust,T1,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived trust,T2,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived trust,T3,1
+66398f6666729e9c617cf032,2024-05-29 14:48:57,BASE,Perceived trust,T4,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation diversity,D1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation diversity,D2,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation diversity,D3,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived system effectiveness,E1,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived system effectiveness,E2,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived system effectiveness,E3,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived transparency,P1,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived transparency,P2,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived transparency,P3,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation quality,Q1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation quality,Q2,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation quality,Q3,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived recommendation quality,Q4,-2
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived trust,T1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived trust,T2,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived trust,T3,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 14:48:09,HETG_CONT,Perceived trust,T4,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation diversity,D1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation diversity,D2,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation diversity,D3,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived system effectiveness,E1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived system effectiveness,E2,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived system effectiveness,E3,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived transparency,P1,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived transparency,P2,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived transparency,P3,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation quality,Q1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation quality,Q2,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation quality,Q3,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived recommendation quality,Q4,-2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived trust,T1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived trust,T2,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived trust,T3,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:15:42,BASE_CONT,Perceived trust,T4,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation diversity,D1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation diversity,D2,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation diversity,D3,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived system effectiveness,E1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived system effectiveness,E2,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived system effectiveness,E3,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived transparency,P1,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived transparency,P2,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived transparency,P3,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation quality,Q1,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation quality,Q2,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation quality,Q3,0
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived recommendation quality,Q4,-2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived trust,T1,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived trust,T2,1
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived trust,T3,2
+663fedaf18f07a9dcda4f0c2,2024-05-30 15:32:01,BASE,Perceived trust,T4,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation diversity,D1,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation diversity,D2,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation diversity,D3,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived system effectiveness,E1,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived system effectiveness,E2,-2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived system effectiveness,E3,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived transparency,P1,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived transparency,P2,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived transparency,P3,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation quality,Q1,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation quality,Q2,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation quality,Q3,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived recommendation quality,Q4,-2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived trust,T1,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived trust,T2,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived trust,T3,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:47:01,BASE_CONT,Perceived trust,T4,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation diversity,D1,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation diversity,D2,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation diversity,D3,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived system effectiveness,E1,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived system effectiveness,E2,-2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived system effectiveness,E3,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived transparency,P1,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived transparency,P2,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived transparency,P3,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation quality,Q1,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation quality,Q2,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation quality,Q3,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived recommendation quality,Q4,-2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived trust,T1,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived trust,T2,1
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived trust,T3,2
+6412794fafa4f3aa2564ac74,2024-05-30 16:59:49,HETG_CONT,Perceived trust,T4,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation diversity,D1,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation diversity,D2,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation diversity,D3,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived system effectiveness,E1,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived system effectiveness,E2,-2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived system effectiveness,E3,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived transparency,P1,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived transparency,P2,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived transparency,P3,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation quality,Q1,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation quality,Q2,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation quality,Q3,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived recommendation quality,Q4,-2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived trust,T1,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived trust,T2,2
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived trust,T3,1
+6412794fafa4f3aa2564ac74,2024-05-30 17:12:47,BASE,Perceived trust,T4,2
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation diversity,D1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation diversity,D2,1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation diversity,D3,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived system effectiveness,E1,0
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived system effectiveness,E2,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived system effectiveness,E3,0
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived transparency,P1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived transparency,P2,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived transparency,P3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation quality,Q1,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation quality,Q2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation quality,Q3,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived recommendation quality,Q4,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived trust,T1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived trust,T2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived trust,T3,0
+62a9513ae9305607fd5af01a,2024-05-30 18:30:51,BASE_CONT,Perceived trust,T4,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation diversity,D1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation diversity,D2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation diversity,D3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived system effectiveness,E1,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived system effectiveness,E2,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived system effectiveness,E3,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived transparency,P1,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived transparency,P2,1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived transparency,P3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation quality,Q1,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation quality,Q2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation quality,Q3,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived recommendation quality,Q4,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived trust,T1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived trust,T2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived trust,T3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:43:22,BASE,Perceived trust,T4,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation diversity,D1,2
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation diversity,D2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation diversity,D3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived system effectiveness,E1,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived system effectiveness,E2,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived system effectiveness,E3,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived transparency,P1,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived transparency,P2,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived transparency,P3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation quality,Q1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation quality,Q2,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation quality,Q3,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived recommendation quality,Q4,-1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived trust,T1,1
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived trust,T2,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived trust,T3,0
+62a9513ae9305607fd5af01a,2024-05-30 18:54:35,HETG_CONT,Perceived trust,T4,0
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation diversity,D1,1
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation diversity,D2,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation diversity,D3,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived system effectiveness,E1,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived system effectiveness,E2,-2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived system effectiveness,E3,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived transparency,P1,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived transparency,P2,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived transparency,P3,1
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation quality,Q1,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation quality,Q2,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation quality,Q3,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived recommendation quality,Q4,-2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived trust,T1,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived trust,T2,0
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived trust,T3,2
+65abea576ca74c598aef13c3,2024-05-31 10:18:07,HETG_CONT,Perceived trust,T4,2
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation diversity,D1,0
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation diversity,D2,0
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation diversity,D3,0
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived system effectiveness,E1,2
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived system effectiveness,E2,-2
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived system effectiveness,E3,2
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived transparency,P1,1
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived transparency,P2,1
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived transparency,P3,2
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation quality,Q1,1
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation quality,Q2,1
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation quality,Q3,1
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived recommendation quality,Q4,-2
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived trust,T1,1
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived trust,T2,0
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived trust,T3,0
+65abea576ca74c598aef13c3,2024-05-31 10:27:24,BASE_CONT,Perceived trust,T4,1
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation diversity,D1,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation diversity,D2,-2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation diversity,D3,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived system effectiveness,E1,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived system effectiveness,E2,-2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived system effectiveness,E3,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived transparency,P1,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived transparency,P2,1
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived transparency,P3,0
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation quality,Q1,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation quality,Q2,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation quality,Q3,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived recommendation quality,Q4,-2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived trust,T1,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived trust,T2,2
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived trust,T3,1
+65abea576ca74c598aef13c3,2024-05-31 10:42:02,BASE,Perceived trust,T4,2
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation diversity,D1,-1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation diversity,D2,0
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation diversity,D3,0
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived system effectiveness,E1,1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived system effectiveness,E2,-1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived system effectiveness,E3,1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived transparency,P1,0
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived transparency,P2,-1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived transparency,P3,0
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation quality,Q1,0
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation quality,Q2,0
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation quality,Q3,-1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived recommendation quality,Q4,-2
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived trust,T1,1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived trust,T2,1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived trust,T3,1
+610729d5507a50dd1db1246f,2024-05-31 14:34:03,BASE,Perceived trust,T4,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation diversity,D1,0
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation diversity,D2,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation diversity,D3,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived system effectiveness,E1,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived system effectiveness,E2,-1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived system effectiveness,E3,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived transparency,P1,0
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived transparency,P2,0
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived transparency,P3,0
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation quality,Q1,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation quality,Q2,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation quality,Q3,0
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived recommendation quality,Q4,-2
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived trust,T1,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived trust,T2,2
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived trust,T3,1
+610729d5507a50dd1db1246f,2024-05-31 14:49:26,HETG_CONT,Perceived trust,T4,2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation diversity,D1,0
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation diversity,D2,-1
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation diversity,D3,0
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived system effectiveness,E1,2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived system effectiveness,E2,-2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived system effectiveness,E3,2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived transparency,P1,1
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived transparency,P2,0
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived transparency,P3,1
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation quality,Q1,1
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation quality,Q2,1
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation quality,Q3,0
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived recommendation quality,Q4,-2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived trust,T1,1
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived trust,T2,2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived trust,T3,2
+610729d5507a50dd1db1246f,2024-05-31 15:03:23,BASE_CONT,Perceived trust,T4,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation diversity,D1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation diversity,D2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation diversity,D3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived system effectiveness,E1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived system effectiveness,E2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived system effectiveness,E3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived transparency,P1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived transparency,P2,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived transparency,P3,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation quality,Q1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation quality,Q2,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation quality,Q3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived recommendation quality,Q4,-2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived trust,T1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived trust,T2,2
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived trust,T3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:33:39,BASE_CONT,Perceived trust,T4,2
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation diversity,D1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation diversity,D2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation diversity,D3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived system effectiveness,E1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived system effectiveness,E2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived system effectiveness,E3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived transparency,P1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived transparency,P2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived transparency,P3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation quality,Q1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation quality,Q2,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation quality,Q3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived recommendation quality,Q4,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived trust,T1,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived trust,T2,1
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived trust,T3,2
+663b3cc669a891b14e3838ed,2024-06-06 18:46:07,BASE,Perceived trust,T4,1
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation diversity,D1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation diversity,D2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation diversity,D3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived system effectiveness,E1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived system effectiveness,E2,-1
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived system effectiveness,E3,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived transparency,P1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived transparency,P2,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived transparency,P3,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation quality,Q1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation quality,Q2,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation quality,Q3,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived recommendation quality,Q4,-2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived trust,T1,2
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived trust,T2,1
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived trust,T3,1
+663b3cc669a891b14e3838ed,2024-06-06 18:57:15,HETG_CONT,Perceived trust,T4,2
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation diversity,D1,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation diversity,D2,0
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation diversity,D3,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived system effectiveness,E1,2
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived system effectiveness,E2,-2
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived system effectiveness,E3,2
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived transparency,P1,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived transparency,P2,0
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived transparency,P3,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation quality,Q1,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation quality,Q2,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation quality,Q3,2
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived recommendation quality,Q4,-2
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived trust,T1,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived trust,T2,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived trust,T3,1
+5f017162f1a82a2aeb59524d,2024-06-19 10:49:57,HETG_CONT,Perceived trust,T4,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation diversity,D1,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation diversity,D2,-1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation diversity,D3,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived system effectiveness,E1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived system effectiveness,E2,-2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived system effectiveness,E3,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived transparency,P1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived transparency,P2,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived transparency,P3,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation quality,Q1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation quality,Q2,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation quality,Q3,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived recommendation quality,Q4,-2
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived trust,T1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived trust,T2,0
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived trust,T3,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:07:31,BASE_CONT,Perceived trust,T4,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation diversity,D1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation diversity,D2,0
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation diversity,D3,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived system effectiveness,E1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived system effectiveness,E2,-2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived system effectiveness,E3,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived transparency,P1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived transparency,P2,0
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived transparency,P3,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation quality,Q1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation quality,Q2,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation quality,Q3,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived recommendation quality,Q4,-2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived trust,T1,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived trust,T2,1
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived trust,T3,2
+5f017162f1a82a2aeb59524d,2024-06-19 11:18:16,BASE,Perceived trust,T4,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation diversity,D1,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation diversity,D2,0
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation diversity,D3,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived system effectiveness,E1,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived system effectiveness,E2,-2
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived system effectiveness,E3,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived transparency,P1,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived transparency,P2,0
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived transparency,P3,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation quality,Q1,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation quality,Q2,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation quality,Q3,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived recommendation quality,Q4,-1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived trust,T1,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived trust,T2,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived trust,T3,1
+665d808947237d7a0e119004,2024-06-21 10:28:00,BASE,Perceived trust,T4,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation diversity,D1,0
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation diversity,D2,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation diversity,D3,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived system effectiveness,E1,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived system effectiveness,E2,-2
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived system effectiveness,E3,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived transparency,P1,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived transparency,P2,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived transparency,P3,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation quality,Q1,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation quality,Q2,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation quality,Q3,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived recommendation quality,Q4,-1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived trust,T1,0
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived trust,T2,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived trust,T3,1
+665d808947237d7a0e119004,2024-06-21 10:47:31,BASE_CONT,Perceived trust,T4,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation diversity,D1,0
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation diversity,D2,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation diversity,D3,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived system effectiveness,E1,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived system effectiveness,E2,-2
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived system effectiveness,E3,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived transparency,P1,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived transparency,P2,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived transparency,P3,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation quality,Q1,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation quality,Q2,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation quality,Q3,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived recommendation quality,Q4,-1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived trust,T1,0
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived trust,T2,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived trust,T3,1
+665d808947237d7a0e119004,2024-06-21 11:05:26,HETG_CONT,Perceived trust,T4,1
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation diversity,D1,-1
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation diversity,D2,1
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation diversity,D3,0
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived system effectiveness,E1,1
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived system effectiveness,E2,-1
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived system effectiveness,E3,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived transparency,P1,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived transparency,P2,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived transparency,P3,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation quality,Q1,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation quality,Q2,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation quality,Q3,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived recommendation quality,Q4,-2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived trust,T1,1
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived trust,T2,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived trust,T3,2
+66646a293a04befb31d13933,2024-06-21 17:27:21,BASE_CONT,Perceived trust,T4,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation diversity,D1,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation diversity,D2,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation diversity,D3,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived system effectiveness,E1,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived system effectiveness,E2,-1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived system effectiveness,E3,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived transparency,P1,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived transparency,P2,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived transparency,P3,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation quality,Q1,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation quality,Q2,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation quality,Q3,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived recommendation quality,Q4,-2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived trust,T1,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived trust,T2,1
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived trust,T3,2
+66646a293a04befb31d13933,2024-06-21 17:36:01,BASE,Perceived trust,T4,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation diversity,D1,1
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation diversity,D2,1
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation diversity,D3,0
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived system effectiveness,E1,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived system effectiveness,E2,-2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived system effectiveness,E3,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived transparency,P1,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived transparency,P2,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived transparency,P3,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation quality,Q1,1
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation quality,Q2,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation quality,Q3,1
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived recommendation quality,Q4,-2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived trust,T1,1
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived trust,T2,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived trust,T3,2
+66646a293a04befb31d13933,2024-06-21 17:47:34,HETG_CONT,Perceived trust,T4,2
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation diversity,D1,-2
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation diversity,D2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation diversity,D3,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived system effectiveness,E1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived system effectiveness,E2,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived system effectiveness,E3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived transparency,P1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived transparency,P2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived transparency,P3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation quality,Q1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation quality,Q2,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation quality,Q3,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived recommendation quality,Q4,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived trust,T1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived trust,T2,1
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived trust,T3,0
+5d7f2c51ed58b60015490876,2024-06-26 14:21:37,BASE,Perceived trust,T4,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation diversity,D1,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation diversity,D2,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation diversity,D3,-2
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived system effectiveness,E1,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived system effectiveness,E2,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived system effectiveness,E3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived transparency,P1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived transparency,P2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived transparency,P3,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation quality,Q1,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation quality,Q2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation quality,Q3,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived recommendation quality,Q4,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived trust,T1,0
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived trust,T2,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived trust,T3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:39:02,BASE_CONT,Perceived trust,T4,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation diversity,D1,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation diversity,D2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation diversity,D3,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived system effectiveness,E1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived system effectiveness,E2,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived system effectiveness,E3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived transparency,P1,1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived transparency,P2,-1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived transparency,P3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation quality,Q1,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation quality,Q2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation quality,Q3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived recommendation quality,Q4,-2
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived trust,T1,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived trust,T2,0
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived trust,T3,1
+5d7f2c51ed58b60015490876,2024-06-26 14:51:48,HETG_CONT,Perceived trust,T4,0
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation diversity,D1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation diversity,D2,-2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation diversity,D3,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived system effectiveness,E1,2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived system effectiveness,E2,-2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived system effectiveness,E3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived transparency,P1,-1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived transparency,P2,2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived transparency,P3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation quality,Q1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation quality,Q2,2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation quality,Q3,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived recommendation quality,Q4,-2
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived trust,T1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived trust,T2,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived trust,T3,1
+6601e7dee24eebb7c4cb3695,2024-06-26 16:51:57,BASE,Perceived trust,T4,0
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation diversity,D1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation diversity,D2,-1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation diversity,D3,0
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived system effectiveness,E1,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived system effectiveness,E2,-1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived system effectiveness,E3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived transparency,P1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived transparency,P2,0
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived transparency,P3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation quality,Q1,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation quality,Q2,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation quality,Q3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived recommendation quality,Q4,-2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived trust,T1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived trust,T2,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived trust,T3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:08:07,BASE_CONT,Perceived trust,T4,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation diversity,D1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation diversity,D2,0
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation diversity,D3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived system effectiveness,E1,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived system effectiveness,E2,-2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived system effectiveness,E3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived transparency,P1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived transparency,P2,-1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived transparency,P3,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation quality,Q1,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation quality,Q2,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation quality,Q3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived recommendation quality,Q4,-2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived trust,T1,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived trust,T2,1
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived trust,T3,2
+6601e7dee24eebb7c4cb3695,2024-06-26 17:26:00,HETG_CONT,Perceived trust,T4,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation diversity,D1,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation diversity,D2,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation diversity,D3,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived system effectiveness,E1,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived system effectiveness,E2,-2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived system effectiveness,E3,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived transparency,P1,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived transparency,P2,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived transparency,P3,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation quality,Q1,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation quality,Q2,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation quality,Q3,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived recommendation quality,Q4,-2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived trust,T1,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived trust,T2,1
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived trust,T3,2
+6134d8a566bc3dffe880e879,2024-06-27 19:44:10,BASE_CONT,Perceived trust,T4,2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation diversity,D1,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation diversity,D2,0
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation diversity,D3,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived system effectiveness,E1,2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived system effectiveness,E2,-2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived system effectiveness,E3,2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived transparency,P1,2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived transparency,P2,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived transparency,P3,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation quality,Q1,2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation quality,Q2,2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation quality,Q3,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived recommendation quality,Q4,-2
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived trust,T1,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived trust,T2,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived trust,T3,1
+6134d8a566bc3dffe880e879,2024-06-27 19:57:27,BASE,Perceived trust,T4,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation diversity,D1,1
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation diversity,D2,-1
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation diversity,D3,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived system effectiveness,E1,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived system effectiveness,E2,-2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived system effectiveness,E3,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived transparency,P1,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived transparency,P2,1
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived transparency,P3,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation quality,Q1,1
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation quality,Q2,1
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation quality,Q3,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived recommendation quality,Q4,-2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived trust,T1,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived trust,T2,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived trust,T3,2
+6134d8a566bc3dffe880e879,2024-06-27 20:17:46,HETG_CONT,Perceived trust,T4,2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation diversity,D1,2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation diversity,D2,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation diversity,D3,-1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived system effectiveness,E1,2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived system effectiveness,E2,0
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived system effectiveness,E3,2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived transparency,P1,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived transparency,P2,2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived transparency,P3,2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation quality,Q1,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation quality,Q2,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation quality,Q3,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived recommendation quality,Q4,-2
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived trust,T1,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived trust,T2,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived trust,T3,1
+66095fb7acab208107666940,2024-06-28 12:31:18,BASE_CONT,Perceived trust,T4,0
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation diversity,D1,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation diversity,D2,-1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation diversity,D3,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived system effectiveness,E1,2
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived system effectiveness,E2,0
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived system effectiveness,E3,2
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived transparency,P1,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived transparency,P2,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived transparency,P3,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation quality,Q1,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation quality,Q2,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation quality,Q3,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived recommendation quality,Q4,-2
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived trust,T1,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived trust,T2,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived trust,T3,1
+66095fb7acab208107666940,2024-06-28 12:45:05,BASE,Perceived trust,T4,0
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation diversity,D1,1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation diversity,D2,-1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation diversity,D3,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived system effectiveness,E1,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived system effectiveness,E2,0
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived system effectiveness,E3,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived transparency,P1,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived transparency,P2,1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived transparency,P3,1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation quality,Q1,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation quality,Q2,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation quality,Q3,2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived recommendation quality,Q4,-2
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived trust,T1,1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived trust,T2,1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived trust,T3,1
+66095fb7acab208107666940,2024-06-28 13:01:24,HETG_CONT,Perceived trust,T4,0
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation diversity,D1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation diversity,D2,1
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation diversity,D3,1
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived system effectiveness,E1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived system effectiveness,E2,-2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived system effectiveness,E3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived transparency,P1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived transparency,P2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived transparency,P3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation quality,Q1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation quality,Q2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation quality,Q3,1
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived recommendation quality,Q4,-2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived trust,T1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived trust,T2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived trust,T3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:46:14,BASE_CONT,Perceived trust,T4,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation diversity,D1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation diversity,D2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation diversity,D3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived system effectiveness,E1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived system effectiveness,E2,-2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived system effectiveness,E3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived transparency,P1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived transparency,P2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived transparency,P3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation quality,Q1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation quality,Q2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation quality,Q3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived recommendation quality,Q4,-2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived trust,T1,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived trust,T2,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived trust,T3,2
+62a099bb01ad779df1971ea4,2024-06-28 15:58:02,BASE,Perceived trust,T4,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation diversity,D1,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation diversity,D2,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation diversity,D3,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived system effectiveness,E1,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived system effectiveness,E2,-2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived system effectiveness,E3,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived transparency,P1,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived transparency,P2,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived transparency,P3,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation quality,Q1,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation quality,Q2,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation quality,Q3,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived recommendation quality,Q4,-2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived trust,T1,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived trust,T2,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived trust,T3,2
+62a099bb01ad779df1971ea4,2024-06-28 16:10:28,HETG_CONT,Perceived trust,T4,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation diversity,D1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation diversity,D2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation diversity,D3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived system effectiveness,E1,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived system effectiveness,E2,0
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived system effectiveness,E3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived transparency,P1,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived transparency,P2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived transparency,P3,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation quality,Q1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation quality,Q2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation quality,Q3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived recommendation quality,Q4,-1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived trust,T1,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived trust,T2,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived trust,T3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:36:19,HETG_CONT,Perceived trust,T4,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation diversity,D1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation diversity,D2,0
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation diversity,D3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived system effectiveness,E1,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived system effectiveness,E2,0
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived system effectiveness,E3,2
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived transparency,P1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived transparency,P2,0
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived transparency,P3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation quality,Q1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation quality,Q2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation quality,Q3,0
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived recommendation quality,Q4,-1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived trust,T1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived trust,T2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived trust,T3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 15:55:50,BASE_CONT,Perceived trust,T4,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation diversity,D1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation diversity,D2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation diversity,D3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived system effectiveness,E1,2
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived system effectiveness,E2,0
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived system effectiveness,E3,2
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived transparency,P1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived transparency,P2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived transparency,P3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation quality,Q1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation quality,Q2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation quality,Q3,0
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived recommendation quality,Q4,-1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived trust,T1,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived trust,T2,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived trust,T3,1
+6644bfb916a9e709abb5b8ec,2024-07-01 16:03:29,BASE,Perceived trust,T4,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation diversity,D1,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation diversity,D2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation diversity,D3,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived system effectiveness,E1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived system effectiveness,E2,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived system effectiveness,E3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived transparency,P1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived transparency,P2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived transparency,P3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation quality,Q1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation quality,Q2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation quality,Q3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived recommendation quality,Q4,-2
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived trust,T1,0
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived trust,T2,0
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived trust,T3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:31:23,HETG_CONT,Perceived trust,T4,0
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation diversity,D1,0
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation diversity,D2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation diversity,D3,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived system effectiveness,E1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived system effectiveness,E2,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived system effectiveness,E3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived transparency,P1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived transparency,P2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived transparency,P3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation quality,Q1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation quality,Q2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation quality,Q3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived recommendation quality,Q4,-2
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived trust,T1,0
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived trust,T2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived trust,T3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:43:26,BASE,Perceived trust,T4,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation diversity,D1,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation diversity,D2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation diversity,D3,0
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived system effectiveness,E1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived system effectiveness,E2,-1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived system effectiveness,E3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived transparency,P1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived transparency,P2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived transparency,P3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation quality,Q1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation quality,Q2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation quality,Q3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived recommendation quality,Q4,-2
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived trust,T1,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived trust,T2,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived trust,T3,1
+63d3f951dd046a4bc2b9cea9,2024-07-04 12:53:31,BASE_CONT,Perceived trust,T4,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation diversity,D1,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation diversity,D2,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation diversity,D3,0
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived system effectiveness,E1,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived system effectiveness,E2,-1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived system effectiveness,E3,2
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived transparency,P1,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived transparency,P2,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived transparency,P3,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation quality,Q1,2
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation quality,Q2,1
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation quality,Q3,2
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived recommendation quality,Q4,-2
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived trust,T1,0
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived trust,T2,0
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived trust,T3,0
+66417f61aaa1d435bca01069,2024-07-04 18:41:57,HETG_CONT,Perceived trust,T4,1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation diversity,D1,1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation diversity,D2,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation diversity,D3,1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived system effectiveness,E1,0
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived system effectiveness,E2,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived system effectiveness,E3,1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived transparency,P1,0
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived transparency,P2,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived transparency,P3,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation quality,Q1,0
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation quality,Q2,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation quality,Q3,0
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived recommendation quality,Q4,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived trust,T1,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived trust,T2,0
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived trust,T3,-1
+66417f61aaa1d435bca01069,2024-07-04 19:09:35,BASE,Perceived trust,T4,0
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation diversity,D1,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation diversity,D2,0
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation diversity,D3,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived system effectiveness,E1,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived system effectiveness,E2,-2
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived system effectiveness,E3,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived transparency,P1,0
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived transparency,P2,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived transparency,P3,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation quality,Q1,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation quality,Q2,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation quality,Q3,2
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived recommendation quality,Q4,-2
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived trust,T1,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived trust,T2,1
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived trust,T3,0
+66417f61aaa1d435bca01069,2024-07-04 19:35:44,BASE_CONT,Perceived trust,T4,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation diversity,D1,2
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation diversity,D2,-1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation diversity,D3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived system effectiveness,E1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived system effectiveness,E2,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived system effectiveness,E3,2
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived transparency,P1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived transparency,P2,-1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived transparency,P3,0
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation quality,Q1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation quality,Q2,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation quality,Q3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived recommendation quality,Q4,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived trust,T1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived trust,T2,0
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived trust,T3,0
+5cff4ed26d6326001acf7022,2024-07-05 12:22:01,HETG_CONT,Perceived trust,T4,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation diversity,D1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation diversity,D2,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation diversity,D3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived system effectiveness,E1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived system effectiveness,E2,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived system effectiveness,E3,2
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived transparency,P1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived transparency,P2,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived transparency,P3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation quality,Q1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation quality,Q2,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation quality,Q3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived recommendation quality,Q4,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived trust,T1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived trust,T2,0
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived trust,T3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:33:11,BASE_CONT,Perceived trust,T4,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation diversity,D1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation diversity,D2,-1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation diversity,D3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived system effectiveness,E1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived system effectiveness,E2,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived system effectiveness,E3,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived transparency,P1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived transparency,P2,0
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived transparency,P3,0
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation quality,Q1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation quality,Q2,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation quality,Q3,0
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived recommendation quality,Q4,-2
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived trust,T1,1
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived trust,T2,0
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived trust,T3,0
+5cff4ed26d6326001acf7022,2024-07-05 12:44:53,BASE,Perceived trust,T4,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation diversity,D1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation diversity,D2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation diversity,D3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived system effectiveness,E1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived system effectiveness,E2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived system effectiveness,E3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived transparency,P1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived transparency,P2,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived transparency,P3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation quality,Q1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation quality,Q2,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation quality,Q3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived recommendation quality,Q4,-2
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived trust,T1,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived trust,T2,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived trust,T3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:25:21,BASE,Perceived trust,T4,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation diversity,D1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation diversity,D2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation diversity,D3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived system effectiveness,E1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived system effectiveness,E2,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived system effectiveness,E3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived transparency,P1,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived transparency,P2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived transparency,P3,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation quality,Q1,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation quality,Q2,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation quality,Q3,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived recommendation quality,Q4,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived trust,T1,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived trust,T2,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived trust,T3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:39:56,BASE_CONT,Perceived trust,T4,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation diversity,D1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation diversity,D2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation diversity,D3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived system effectiveness,E1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived system effectiveness,E2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived system effectiveness,E3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived transparency,P1,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived transparency,P2,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived transparency,P3,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation quality,Q1,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation quality,Q2,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation quality,Q3,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived recommendation quality,Q4,-1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived trust,T1,0
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived trust,T2,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived trust,T3,1
+63378180a7bc5bc3427e8db0,2024-07-05 17:59:58,HETG_CONT,Perceived trust,T4,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation diversity,D1,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation diversity,D2,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation diversity,D3,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived system effectiveness,E1,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived system effectiveness,E2,-1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived system effectiveness,E3,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived transparency,P1,2
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived transparency,P2,-1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived transparency,P3,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation quality,Q1,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation quality,Q2,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation quality,Q3,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived recommendation quality,Q4,-1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived trust,T1,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived trust,T2,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived trust,T3,1
+65d0cd7a05bc38801d981ace,2024-07-11 11:57:39,BASE,Perceived trust,T4,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation diversity,D1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation diversity,D2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation diversity,D3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived system effectiveness,E1,2
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived system effectiveness,E2,-1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived system effectiveness,E3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived transparency,P1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived transparency,P2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived transparency,P3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation quality,Q1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation quality,Q2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation quality,Q3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived recommendation quality,Q4,-1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived trust,T1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived trust,T2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived trust,T3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:15:52,BASE_CONT,Perceived trust,T4,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation diversity,D1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation diversity,D2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation diversity,D3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived system effectiveness,E1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived system effectiveness,E2,-1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived system effectiveness,E3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived transparency,P1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived transparency,P2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived transparency,P3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation quality,Q1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation quality,Q2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation quality,Q3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived recommendation quality,Q4,-1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived trust,T1,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived trust,T2,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived trust,T3,1
+65d0cd7a05bc38801d981ace,2024-07-11 12:31:23,HETG_CONT,Perceived trust,T4,1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation diversity,D1,2
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation diversity,D2,-2
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation diversity,D3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived system effectiveness,E1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived system effectiveness,E2,0
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived system effectiveness,E3,2
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived transparency,P1,0
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived transparency,P2,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived transparency,P3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation quality,Q1,0
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation quality,Q2,0
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation quality,Q3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived recommendation quality,Q4,0
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived trust,T1,0
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived trust,T2,1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived trust,T3,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 12:39:59,BASE_CONT,Perceived trust,T4,0
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation diversity,D1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation diversity,D2,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation diversity,D3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived system effectiveness,E1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived system effectiveness,E2,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived system effectiveness,E3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived transparency,P1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived transparency,P2,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived transparency,P3,2
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation quality,Q1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation quality,Q2,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation quality,Q3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived recommendation quality,Q4,-2
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived trust,T1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived trust,T2,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived trust,T3,0
+5ea06914c2b73202ae7a3f29,2024-07-12 13:04:03,HETG_CONT,Perceived trust,T4,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation diversity,D1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation diversity,D2,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation diversity,D3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived system effectiveness,E1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived system effectiveness,E2,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived system effectiveness,E3,2
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived transparency,P1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived transparency,P2,0
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived transparency,P3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation quality,Q1,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation quality,Q2,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation quality,Q3,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived recommendation quality,Q4,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived trust,T1,0
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived trust,T2,1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived trust,T3,-1
+5ea06914c2b73202ae7a3f29,2024-07-12 13:22:38,BASE,Perceived trust,T4,0
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation diversity,D1,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation diversity,D2,0
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation diversity,D3,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived system effectiveness,E1,2
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived system effectiveness,E2,-2
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived system effectiveness,E3,2
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived transparency,P1,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived transparency,P2,2
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived transparency,P3,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation quality,Q1,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation quality,Q2,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation quality,Q3,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived recommendation quality,Q4,-2
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived trust,T1,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived trust,T2,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived trust,T3,1
+612d18cff20cd023bd839bde,2024-07-12 15:28:59,HETG_CONT,Perceived trust,T4,0
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation diversity,D1,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation diversity,D2,-1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation diversity,D3,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived system effectiveness,E1,2
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived system effectiveness,E2,-2
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived system effectiveness,E3,2
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived transparency,P1,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived transparency,P2,0
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived transparency,P3,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation quality,Q1,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation quality,Q2,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation quality,Q3,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived recommendation quality,Q4,-2
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived trust,T1,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived trust,T2,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived trust,T3,1
+612d18cff20cd023bd839bde,2024-07-12 15:41:55,BASE_CONT,Perceived trust,T4,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation diversity,D1,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation diversity,D2,0
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation diversity,D3,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived system effectiveness,E1,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived system effectiveness,E2,-2
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived system effectiveness,E3,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived transparency,P1,0
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived transparency,P2,0
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived transparency,P3,0
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation quality,Q1,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation quality,Q2,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation quality,Q3,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived recommendation quality,Q4,-2
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived trust,T1,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived trust,T2,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived trust,T3,1
+612d18cff20cd023bd839bde,2024-07-12 15:49:37,BASE,Perceived trust,T4,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation diversity,D1,0
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation diversity,D2,0
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation diversity,D3,0
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived system effectiveness,E1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived system effectiveness,E2,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived system effectiveness,E3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived transparency,P1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived transparency,P2,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived transparency,P3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation quality,Q1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation quality,Q2,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation quality,Q3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived recommendation quality,Q4,-2
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived trust,T1,0
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived trust,T2,0
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived trust,T3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:29:22,HETG_CONT,Perceived trust,T4,0
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation diversity,D1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation diversity,D2,-2
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation diversity,D3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived system effectiveness,E1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived system effectiveness,E2,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived system effectiveness,E3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived transparency,P1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived transparency,P2,2
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived transparency,P3,2
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation quality,Q1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation quality,Q2,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation quality,Q3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived recommendation quality,Q4,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived trust,T1,0
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived trust,T2,0
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived trust,T3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:43:03,BASE_CONT,Perceived trust,T4,0
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation diversity,D1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation diversity,D2,-2
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation diversity,D3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived system effectiveness,E1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived system effectiveness,E2,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived system effectiveness,E3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived transparency,P1,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived transparency,P2,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived transparency,P3,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation quality,Q1,0
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation quality,Q2,1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation quality,Q3,0
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived recommendation quality,Q4,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived trust,T1,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived trust,T2,-1
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived trust,T3,0
+66640de47db5e38fe0ea186d,2024-07-16 17:55:24,BASE,Perceived trust,T4,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation diversity,D1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation diversity,D2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation diversity,D3,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived system effectiveness,E1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived system effectiveness,E2,-1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived system effectiveness,E3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived transparency,P1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived transparency,P2,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived transparency,P3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation quality,Q1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation quality,Q2,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation quality,Q3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived recommendation quality,Q4,-1
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived trust,T1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived trust,T2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived trust,T3,0
+5ea047d315537303f1e60ef9,2024-07-18 16:21:30,BASE,Perceived trust,T4,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation diversity,D1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation diversity,D2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation diversity,D3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived system effectiveness,E1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived system effectiveness,E2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived system effectiveness,E3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived transparency,P1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived transparency,P2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived transparency,P3,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation quality,Q1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation quality,Q2,1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation quality,Q3,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived recommendation quality,Q4,-1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived trust,T1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived trust,T2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived trust,T3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:32:08,BASE_CONT,Perceived trust,T4,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation diversity,D1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation diversity,D2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation diversity,D3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived system effectiveness,E1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived system effectiveness,E2,-1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived system effectiveness,E3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived transparency,P1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived transparency,P2,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived transparency,P3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation quality,Q1,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation quality,Q2,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation quality,Q3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived recommendation quality,Q4,-1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived trust,T1,0
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived trust,T2,0
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived trust,T3,1
+5ea047d315537303f1e60ef9,2024-07-18 16:44:11,HETG_CONT,Perceived trust,T4,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation diversity,D1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation diversity,D2,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation diversity,D3,-1
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived system effectiveness,E1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived system effectiveness,E2,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived system effectiveness,E3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived transparency,P1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived transparency,P2,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived transparency,P3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation quality,Q1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation quality,Q2,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation quality,Q3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived recommendation quality,Q4,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived trust,T1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived trust,T2,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived trust,T3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:25:34,HETG_CONT,Perceived trust,T4,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation diversity,D1,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation diversity,D2,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation diversity,D3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived system effectiveness,E1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived system effectiveness,E2,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived system effectiveness,E3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived transparency,P1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived transparency,P2,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived transparency,P3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation quality,Q1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation quality,Q2,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation quality,Q3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived recommendation quality,Q4,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived trust,T1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived trust,T2,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived trust,T3,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:34:24,BASE_CONT,Perceived trust,T4,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation diversity,D1,2
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation diversity,D2,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation diversity,D3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived system effectiveness,E1,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived system effectiveness,E2,-1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived system effectiveness,E3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived transparency,P1,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived transparency,P2,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived transparency,P3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation quality,Q1,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation quality,Q2,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation quality,Q3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived recommendation quality,Q4,-2
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived trust,T1,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived trust,T2,0
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived trust,T3,1
+6489cb79dbe4b49f0e893588,2024-07-19 16:48:26,BASE,Perceived trust,T4,2
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation diversity,D1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation diversity,D2,1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation diversity,D3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived system effectiveness,E1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived system effectiveness,E2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived system effectiveness,E3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived transparency,P1,1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived transparency,P2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived transparency,P3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation quality,Q1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation quality,Q2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation quality,Q3,-1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived recommendation quality,Q4,-1
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived trust,T1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived trust,T2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived trust,T3,0
+5c3a1ef5e57f0500018506c0,2024-07-19 18:37:48,BASE,Perceived trust,T4,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation diversity,D1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation diversity,D2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation diversity,D3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived system effectiveness,E1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived system effectiveness,E2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived system effectiveness,E3,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived transparency,P1,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived transparency,P2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived transparency,P3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation quality,Q1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation quality,Q2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation quality,Q3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived recommendation quality,Q4,-1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived trust,T1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived trust,T2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived trust,T3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:18:00,BASE_CONT,Perceived trust,T4,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation diversity,D1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation diversity,D2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation diversity,D3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived system effectiveness,E1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived system effectiveness,E2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived system effectiveness,E3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived transparency,P1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived transparency,P2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived transparency,P3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation quality,Q1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation quality,Q2,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation quality,Q3,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived recommendation quality,Q4,-1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived trust,T1,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived trust,T2,0
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived trust,T3,1
+5c3a1ef5e57f0500018506c0,2024-07-19 19:37:46,HETG_CONT,Perceived trust,T4,1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation diversity,D1,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation diversity,D2,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation diversity,D3,0
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived system effectiveness,E1,1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived system effectiveness,E2,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived system effectiveness,E3,2
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived transparency,P1,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived transparency,P2,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived transparency,P3,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation quality,Q1,-2
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation quality,Q2,0
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation quality,Q3,0
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived recommendation quality,Q4,0
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived trust,T1,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived trust,T2,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived trust,T3,-1
+66705f4bb60d970e0fa97429,2024-07-26 10:39:37,BASE,Perceived trust,T4,1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation diversity,D1,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation diversity,D2,1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation diversity,D3,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived system effectiveness,E1,1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived system effectiveness,E2,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived system effectiveness,E3,2
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived transparency,P1,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived transparency,P2,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived transparency,P3,1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation quality,Q1,0
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation quality,Q2,1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation quality,Q3,0
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived recommendation quality,Q4,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived trust,T1,0
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived trust,T2,1
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived trust,T3,0
+66705f4bb60d970e0fa97429,2024-07-26 11:00:02,HETG_CONT,Perceived trust,T4,1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation diversity,D1,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation diversity,D2,1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation diversity,D3,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived system effectiveness,E1,1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived system effectiveness,E2,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived system effectiveness,E3,2
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived transparency,P1,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived transparency,P2,-2
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived transparency,P3,-2
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation quality,Q1,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation quality,Q2,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation quality,Q3,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived recommendation quality,Q4,0
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived trust,T1,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived trust,T2,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived trust,T3,-1
+66705f4bb60d970e0fa97429,2024-07-26 11:19:14,BASE_CONT,Perceived trust,T4,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation diversity,D1,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation diversity,D2,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation diversity,D3,2
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived system effectiveness,E1,0
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived system effectiveness,E2,-1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived system effectiveness,E3,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived transparency,P1,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived transparency,P2,0
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived transparency,P3,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation quality,Q1,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation quality,Q2,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation quality,Q3,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived recommendation quality,Q4,-2
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived trust,T1,0
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived trust,T2,0
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived trust,T3,1
+65748c3df086414ca27768b6,2024-07-30 16:46:32,BASE_CONT,Perceived trust,T4,0
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation diversity,D1,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation diversity,D2,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation diversity,D3,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived system effectiveness,E1,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived system effectiveness,E2,-1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived system effectiveness,E3,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived transparency,P1,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived transparency,P2,0
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived transparency,P3,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation quality,Q1,0
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation quality,Q2,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation quality,Q3,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived recommendation quality,Q4,-2
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived trust,T1,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived trust,T2,0
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived trust,T3,1
+65748c3df086414ca27768b6,2024-07-30 17:23:44,HETG_CONT,Perceived trust,T4,0
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation diversity,D1,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation diversity,D2,0
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation diversity,D3,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived system effectiveness,E1,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived system effectiveness,E2,-1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived system effectiveness,E3,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived transparency,P1,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived transparency,P2,0
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived transparency,P3,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation quality,Q1,0
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation quality,Q2,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation quality,Q3,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived recommendation quality,Q4,-1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived trust,T1,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived trust,T2,0
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived trust,T3,1
+65748c3df086414ca27768b6,2024-07-30 17:45:55,BASE,Perceived trust,T4,0

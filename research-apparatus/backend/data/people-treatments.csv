@@ -1,0 +1,109 @@
+person_id,treatment_id,prescribed,purpose
+1,14,True,Relief of the heart
+1,26,True,For drainage and protection of the heart
+2,14,False,"Lowers blood pressure
+causes the heart to beat more slower"
+2,56,True,"Helps me with blood circulation, for a good blood flow all over my body"
+2,64,True,Lowers cholesterol and protects against heart attach and stroke
+3,71,True,Blood thinning
+4,64,True,For my heart and to lower blood pressure
+4,20,True,To lower excitability in my brain due to the visual snow syndrome
+5,57,True,Improve muscle tension
+5,28,True,Pumping power improvement
+5,11,True,Heart rhythm
+6,65,True,To maintain normal thyroid levels
+7,71,True,Blood thinning
+7,15,True,Blood pressure
+7,16,True,Blod pressure
+8,23,True,Coronary artery dilatation
+8,36,True,"Reduction of limited mobility, pain reduction"
+8,18,True,Elimination of the tumor
+9,15,True,Lower heart rate
+9,59,True,Lower blood pressure
+9,12,True,Lower cholesterol
+9,10,True,Thinner blood to stop stickiness
+9,52,True,Treat depression
+10,46,True,To regulate my under active thyroid
+10,48,True,To lower my blood pressure
+10,10,True,To help prevent another stroke or heart attack
+10,6,True,To help lower my blood pressure
+10,37,True,To help lower my blood pressure
+10,61,True,To help lower my cholesterol
+11,40,True,Controlling of blood sugar levels
+11,23,True,Broaden the arteries to my heart
+11,47,True,Control blood pressure
+11,41,True,Heart
+11,21,True,Heart
+11,10,True,Heart
+11,9,True,Cholesterol and heart
+11,4,True,Relax my body
+11,58,True,Joint pain
+11,60,True,High blood pressure
+12,68,True,Heart
+12,43,True,Heart
+12,46,True,Thyroid
+12,67,True,Migraine
+12,35,False,Pain
+12,24,False,Swelling
+12,38,False,Pain
+12,2,False,Pain
+12,10,False,Heart
+12,62,True,Anxiety
+13,14,True,Reduce heart rate to avoid tachycardia and icd giving shock
+13,51,True,To maintain overall health
+14,71,True,Blood thinner
+14,13,True,Immuno suppressant
+14,17,True,Heart beat regulator
+14,29,True,Thyroid regulator
+14,27,True,Blood thinner
+15,10,True,Prevention of blood clots
+15,3,True,Prevention of hyperuricemia
+16,12,True,Cholesterol
+16,10,True,Blood thinner
+16,11,True,Blood pressure
+16,59,True,Blood pressure
+17,10,True,Unknown
+17,12,True,Unknown
+17,28,True,Unknown
+17,31,True,Unknown
+17,33,True,Unknown
+17,49,True,Unknown
+17,50,True,Unknown
+18,23,True,Assist blood flow
+18,12,True,Lower cholestorol
+18,10,True,Blood thinner
+18,54,True,Acid reflux
+19,63,True,Reduce cholestrol
+20,10,True,Prevent blood from clotting
+20,45,True,"Lower ldl cholesterol, reduce the risk of cardiovascular disease"
+20,70,True,Improving both walking distance and walking pace
+20,22,True,"Reopen a narrowed coronary artery, keep arteries open"
+20,23,True,"Reopen a narrowed coronary artery, keep arteries open"
+20,39,True,Inguinal hernia operation and mesh placement
+21,1,True,"Heart, blood pressure, cholesterol"
+21,64,True,"Heart, blood pressure, cholesterol"
+21,10,True,Heart
+21,7,True,Blood pressure
+21,34,False,Joint care
+21,53,False,General
+22,14,True,Keep heart rate within reasonable bounds
+22,8,True,"Stop blood clots, strokes"
+22,26,True,Reduce water retention
+23,50,True,Heart disease
+23,12,True,Cholesterol
+23,31,True,Cholesterol
+23,19,True,Heart disease
+23,40,True,Diabetes
+23,55,True,Diabetes
+23,10,True,Heart disease
+23,66,True,Heart disease
+23,69,False,Knee instability and mobility
+23,44,False,Knee instability and mobility
+23,42,True,Diabetes
+23,25,False,"Heart health, lower blood sugars, lower blood pressure"
+23,30,False,"Heart health, lower blood sugars, lower blood pressure"
+24,15,True,Protect heart
+24,47,True,Protect heart
+24,54,True,Prevent reflux
+24,10,True,Reduce possibility of clots
+25,32,True,An antidepressant

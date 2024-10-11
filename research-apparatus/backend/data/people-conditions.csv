@@ -1,0 +1,54 @@
+person_id,condition,primary,diagnosed,time_since_diagnosis
+1,Heart failure,True,True,Five years or more
+1,Back problems,False,True,Five years or more
+1,High blood pressure,False,True,Five years or more
+2,Coronary artery disease,True,True,One to two years
+3,Heart failure,True,True,Five years or more
+4,Coronary artery disease,True,True,Five years or more
+4,Visual snow syndrome,False,True,One to two years
+4,Small vessel disease,False,True,One to two years
+5,Heart failure,True,True,Two to five years
+6,Hypothyroidism,False,True,One to two years
+6,Heart failure,True,True,Five years or more
+7,Heart failure,True,True,Five years or more
+8,Coronary artery disease,True,True,Five years or more
+8,Congenital hip dysplasia,False,True,Five years or more
+8,Hodgkin lymphoma,False,True,Five years or more
+9,Coronary artery disease,True,True,Five years or more
+9,Depression,False,True,Five years or more
+10,Coronary artery disease,False,True,Five years or more
+10,Hypothyroidism,False,True,Five years or more
+10,High cholesterol,False,True,Five years or more
+10,Ischemic stroke,True,True,Five years or more
+11,Coronary artery disease,False,True,Five years or more
+11,Diabetes,True,True,Two to five years
+11,High blood pressure,False,True,Five years or more
+12,Heart failure,False,True,Two to five years
+12,Ehlers-Danlos syndrome,True,True,Five years or more
+12,Osteoarthritis,False,True,Five years or more
+13,Heart failure,True,True,Five years or more
+14,Coronary artery disease,False,True,Two to five years
+14,Lupus,True,True,Five years or more
+14,Rheumatoid arthritis,False,True,Five years or more
+15,Coronary artery disease,False,True,Two to five years
+15,Gout,True,True,Five years or more
+15,Covid,False,True,One to two years
+16,Heart failure,True,True,Five years or more
+17,Heart failure,True,True,Five years or more
+18,Coronary artery disease,True,True,Five years or more
+19,Coronary artery disease,True,True,Five years or more
+20,Coronary artery disease,False,True,Five years or more
+20,Peripheral vascular disease,True,True,Five years or more
+20,Heart attack,False,True,Five years or more
+21,Coronary artery disease,True,True,Five years or more
+22,Heart failure,False,True,Two to five years
+22,Atrial fibrillation,True,True,Two to five years
+22,Edema,False,True,One to two years
+22,Sleep apnoea,False,True,Five years or more
+23,Coronary artery disease,False,True,Five years or more
+23,Type 2 diabetes,True,True,Five years or more
+23,Osteoarthritis of the knee,False,True,Five years or more
+24,Heart failure,True,True,Five years or more
+25,Heart failure,False,True,Two to five years
+25,Type 1 diabetes,True,True,Five years or more
+25,Depression,False,True,Five years or more
